@@ -10,7 +10,7 @@ Ejercicios 2401 a 2408: modelado en ArgoUML, implementación en Java y uso del J
 - Modelo UML: [`martinnavarro.zargo`](martinnavarro.zargo) (ArgoUML 0.34). Tiene un diagrama de clases por ejercicio (dos para el 2401).
 - Código: `src/main/java/edu/programacion/ejercicioXXXX/`
 - Tests (JUnit 5): `src/test/java/edu/programacionImpl/`
-- Demo de todos los ejercicios: `edu.programacion.Main`
+- Cada ejercicio tiene su propio `Main` (`edu.programacion.ejercicioXXXX.Main`). `edu.programacion.Main` corre todos juntos.
 
 ```bash
 mvn test                                  # compila y corre los tests
