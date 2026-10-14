@@ -1,0 +1,9 @@
+target/
+out/
+.idea/
+*.iml
+.vscode/
+*.class
+*.zargo~
+*.bak
+.DS_Store
