@@ -1,6 +1,7 @@
 # POO - Actividad 4
 
 **Alumno:** Martín Navarro
+
 **Docente:** Franco Borzi
 
 Ejercicios 2401 a 2408: modelado en ArgoUML, implementación en Java y uso del Java Collection Framework.
